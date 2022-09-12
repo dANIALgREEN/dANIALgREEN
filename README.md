@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dANIALgREEN
 - 👀 I’m interested in GameDev
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++ and UE5 development
 - 📫 How to reach me Убийца Матриархата#6781
 
 <!---
