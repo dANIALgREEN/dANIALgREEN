@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dANIALgREEN
 - 👀 I’m interested in GameDev
-- 🌱 I’m currently learning C++ and UE5 development
-- 📫 How to reach me Убийца Матриархата#6781
+- 🌱 I’m currently learning C# and Unity
+- 📫 How to reach me: zelyuk2003@gmail.com
 
 <!---
 dANIALgREEN/dANIALgREEN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
