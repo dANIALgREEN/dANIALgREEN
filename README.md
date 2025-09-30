@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dANIALgREEN
-- 👀 I’m interested in GameDev
-- 🌱 I’m currently learning C#
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Python
 - 📫 How to reach me: zelyuk2003@gmail.com
 
 <!---
